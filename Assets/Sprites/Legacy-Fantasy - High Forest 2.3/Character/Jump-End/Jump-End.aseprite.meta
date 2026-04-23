@@ -1,8 +1,13 @@
 fileFormatVersion: 2
-guid: d31197bc89640544abacc41655023467
+guid: 809e51a4ded343347aa7a1854104e3ab
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Jump-End_Clip
+    second: {fileID: 7400000, guid: 703d5c51d6f4248439fa2d05474d80ed, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -102,7 +107,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 639114710390375236
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -139,7 +144,7 @@ ScriptedImporter:
       y: 4
       width: 25
       height: 48
-    spriteID: 9987f6ab5ca8fc5498b5a5ab2b3971ca
+    spriteID: 8bf57f8f5aa20c74dbeca130f728d450
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,7 +165,7 @@ ScriptedImporter:
       y: 4
       width: 35
       height: 41
-    spriteID: 9077b0cc9fb87da4db2da2eb82e85aea
+    spriteID: 13726a7f63cf26a46b357eb0cbf3373f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +186,7 @@ ScriptedImporter:
       y: 4
       width: 35
       height: 40
-    spriteID: 275d35607852b1b45b81aee89c97efc2
+    spriteID: f7f0c88d296a4bb4495aab58d6888181
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +218,7 @@ ScriptedImporter:
         y: 1
         width: 25
         height: 48
-      spriteId: 9987f6ab5ca8fc5498b5a5ab2b3971ca
+      spriteId: 8bf57f8f5aa20c74dbeca130f728d450
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -222,7 +227,7 @@ ScriptedImporter:
         y: 0
         width: 35
         height: 41
-      spriteId: 9077b0cc9fb87da4db2da2eb82e85aea
+      spriteId: 13726a7f63cf26a46b357eb0cbf3373f
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -231,13 +236,37 @@ ScriptedImporter:
         y: 0
         width: 35
         height: 40
-      spriteId: 275d35607852b1b45b81aee89c97efc2
+      spriteId: f7f0c88d296a4bb4495aab58d6888181
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
     parentIndex: -1
   tileSets: []
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 3055f8c592fde3f4cbf0eec3f3ac4610
+  productGUID: 5507d3d62dd2f8644a3885550c049afb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Prueba
+  productName: clase_proyecto_individual
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -605,14 +605,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Prueba
+  metroPackageName: clase_proyecto_individual
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Prueba
+  metroApplicationDescription: clase_proyecto_individual
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -683,11 +683,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8e765ee8-5869-4c30-b376-afbfbb96bf1e
+  cloudProjectId: 33669bed-82b6-4c83-81a8-56320207e3c9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Prueba
-  organizationId: maytajuan314
+  projectName: clase_proyecto_individual
+  organizationId: joelcitochoquecito76
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
